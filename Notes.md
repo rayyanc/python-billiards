@@ -106,3 +106,5 @@ pandoc README.md --from markdown --to rst -s -o README.rst
 .. image:: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal.png
    :target: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal
    :alt: Latest Travis CI build status
+
+mogus
